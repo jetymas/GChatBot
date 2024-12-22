@@ -31,3 +31,9 @@ var/
 .venv
 venv/
 ENV/
+
+# Sensitive information
+src/Sensitive
+
+# Drivers
+drivers
